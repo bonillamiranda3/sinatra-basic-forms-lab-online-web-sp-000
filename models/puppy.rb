@@ -1,4 +1,4 @@
-class puppy
+class Puppy
 
   attr_accessor :age, :name
   attr_reader :breed
@@ -8,4 +8,4 @@ class puppy
     @breed = breed
     @age = months_old
   end
-end  
+end
